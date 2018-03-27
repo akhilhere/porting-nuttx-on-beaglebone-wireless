@@ -3,3 +3,5 @@ important links:
 2. schematic : https://github.com/beagleboard/beaglebone-black-wireless
 3. components on board:
    OSD33358 SIP : https://octavosystems.com/octavo_products/osd335x/
+4. what is emmc : https://www.datalight.com/solutions/technologies/emmc/what-is-emmc
+
